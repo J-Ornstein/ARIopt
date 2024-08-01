@@ -1,0 +1,2 @@
+library(ARIbrain)
+devtools::install_github('J-Ornstein/ARIopt')
